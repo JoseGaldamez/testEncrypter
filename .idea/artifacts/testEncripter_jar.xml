@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testEncripter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testEncripter_jar</output-path>
+    <root id="archive" name="testEncripter.jar">
+      <element id="module-output" name="testEncripter" />
+    </root>
+  </artifact>
+</component>
